@@ -1,3 +1,7 @@
+Data scientist and machine learning researcher.
+Solid background in mathematics, statistics, and computational science.
+Collaborative team player, contributing in cross-functional teams.
+Implementing machine learning models.
 
 
 <!---
